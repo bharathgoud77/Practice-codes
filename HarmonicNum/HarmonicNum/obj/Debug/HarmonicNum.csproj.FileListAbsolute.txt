@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\bin\Debug\HarmonicNum.exe.config
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\bin\Debug\HarmonicNum.exe
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\bin\Debug\HarmonicNum.pdb
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\obj\Debug\HarmonicNum.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\obj\Debug\HarmonicNum.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\obj\Debug\HarmonicNum.exe
+E:\fellowship\Practice-codes\HarmonicNum\HarmonicNum\obj\Debug\HarmonicNum.pdb
