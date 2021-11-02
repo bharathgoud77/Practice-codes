@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\LargestNum\LargestNum\bin\Debug\LargestNum.exe.config
+E:\fellowship\Practice-codes\LargestNum\LargestNum\bin\Debug\LargestNum.exe
+E:\fellowship\Practice-codes\LargestNum\LargestNum\bin\Debug\LargestNum.pdb
+E:\fellowship\Practice-codes\LargestNum\LargestNum\obj\Debug\LargestNum.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\LargestNum\LargestNum\obj\Debug\LargestNum.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\LargestNum\LargestNum\obj\Debug\LargestNum.exe
+E:\fellowship\Practice-codes\LargestNum\LargestNum\obj\Debug\LargestNum.pdb
