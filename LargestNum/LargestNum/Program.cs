@@ -19,17 +19,17 @@ namespace LargestNum
         {
             if (num1 > num3)
             {
-                Console.Write("Number one is the largest!\n");
+                Console.WriteLine("Number one is the largest!\n");
             }
             else
             {
-                Console.Write("Number three is the largest!\n");
+                Console.WriteLine("Number three is the largest!\n");
             }
         }
         else if (num2 > num3)
-            Console.Write("Number two is the largest!\n");
+            Console.WriteLine("Number two is the largest!\n");
         else
-            Console.Write("Number three is the largest!\n");
+            Console.WriteLine("Number three is the largest!\n");
         Console.ReadKey();
     }
 }
