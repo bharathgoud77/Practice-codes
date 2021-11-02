@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\oddoreven\oddoreven\bin\Debug\oddoreven.exe.config
+E:\fellowship\Practice-codes\oddoreven\oddoreven\bin\Debug\oddoreven.exe
+E:\fellowship\Practice-codes\oddoreven\oddoreven\bin\Debug\oddoreven.pdb
+E:\fellowship\Practice-codes\oddoreven\oddoreven\obj\Debug\oddoreven.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\oddoreven\oddoreven\obj\Debug\oddoreven.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\oddoreven\oddoreven\obj\Debug\oddoreven.exe
+E:\fellowship\Practice-codes\oddoreven\oddoreven\obj\Debug\oddoreven.pdb
