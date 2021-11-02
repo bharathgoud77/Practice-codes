@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\Quotient\Quotient\obj\Debug\Quotient.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\Quotient\Quotient\obj\Debug\Quotient.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\Quotient\Quotient\bin\Debug\Quotient.exe.config
+E:\fellowship\Practice-codes\Quotient\Quotient\bin\Debug\Quotient.exe
+E:\fellowship\Practice-codes\Quotient\Quotient\bin\Debug\Quotient.pdb
+E:\fellowship\Practice-codes\Quotient\Quotient\obj\Debug\Quotient.exe
+E:\fellowship\Practice-codes\Quotient\Quotient\obj\Debug\Quotient.pdb

@@ -1,0 +1,2 @@
+E:\fellowship\Practice-codes\primeFactors\primeFactors\obj\Debug\primeFactors.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\primeFactors\primeFactors\obj\Debug\primeFactors.csproj.CoreCompileInputs.cache

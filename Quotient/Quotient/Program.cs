@@ -6,23 +6,25 @@ using System.Threading.Tasks;
 
 namespace Quotient
 {
-    class program
-    {
-        public int N, Divisor, Quotient, Remainder;
+	using System;
+	public class Test
+	{
+		public static void Main(string[] args)
+		{
+			int x, y, q, r;
+			Console.Write("Enter first number:");
+			x = Convert.ToInt32(Console.ReadLine());
 
-        public void compute()
-        {
-            Console.WriteLine("Enter the number you want to divide");
-            N = Convert.ToInt32(Console.ReadLine());
+			Console.Write("Enter second number:");
+			y = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter the divisor");
-            Divisor = Convert.ToInt32(Console.ReadLine());
-            Quotient = N / Divisor;
-            Remainder = N % Divisor;
+			q = x / y;
+			r = x % y;
 
-            Console.WriteLine("Quotient is: " + Quotient);
-            Console.WriteLine("Remainder is: " + Remainder);
-        }
-    }
+			Console.WriteLine("Quotient is:" + q);
+			Console.WriteLine("Remainder is:" + r);
+			Console.ReadKey();
 
+		}
+	}
 }
