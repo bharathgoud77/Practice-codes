@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\vowel\vowel\bin\Debug\vowel.exe.config
+E:\fellowship\Practice-codes\vowel\vowel\bin\Debug\vowel.exe
+E:\fellowship\Practice-codes\vowel\vowel\bin\Debug\vowel.pdb
+E:\fellowship\Practice-codes\vowel\vowel\obj\Debug\vowel.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\vowel\vowel\obj\Debug\vowel.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\vowel\vowel\obj\Debug\vowel.exe
+E:\fellowship\Practice-codes\vowel\vowel\obj\Debug\vowel.pdb

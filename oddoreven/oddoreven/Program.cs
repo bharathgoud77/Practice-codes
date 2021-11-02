@@ -14,7 +14,7 @@ namespace oddoreven
         {
             
             int n;
-            Console.WriteLine("Enter a number to check : ");
+            Console.WriteLine("Enter a number  : ");
             n = int.Parse(Console.ReadLine());
             if (n % 2 == 0)
             {
