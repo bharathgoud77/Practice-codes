@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\swaping\swaping\bin\Debug\swaping.exe.config
+E:\fellowship\Practice-codes\swaping\swaping\bin\Debug\swaping.exe
+E:\fellowship\Practice-codes\swaping\swaping\bin\Debug\swaping.pdb
+E:\fellowship\Practice-codes\swaping\swaping\obj\Debug\swaping.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\swaping\swaping\obj\Debug\swaping.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\swaping\swaping\obj\Debug\swaping.exe
+E:\fellowship\Practice-codes\swaping\swaping\obj\Debug\swaping.pdb
