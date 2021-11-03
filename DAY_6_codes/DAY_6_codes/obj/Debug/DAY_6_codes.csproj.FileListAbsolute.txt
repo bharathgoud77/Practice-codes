@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\DAY_6_codes.exe.config
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\DAY_6_codes.exe
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\DAY_6_codes.pdb
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.exe
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.pdb

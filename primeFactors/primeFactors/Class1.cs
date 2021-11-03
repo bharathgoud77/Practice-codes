@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BasicLogicalProgramme
 {
-    public class Factors
+    public class Prime
     {
         public void GetFactors()
         {
@@ -20,7 +20,10 @@ namespace BasicLogicalProgramme
                 }
 
                 i++;
-                Console.ReadKey();
+            }
+            void Main(string[] args)
+            {
+                Console.WriteLine("prime = " + i);
             }
         }
     }

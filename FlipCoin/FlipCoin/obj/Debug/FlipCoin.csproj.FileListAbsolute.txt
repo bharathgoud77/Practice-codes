@@ -1,2 +1,0 @@
-E:\fellowship\Practice-codes\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.AssemblyReference.cache
-E:\fellowship\Practice-codes\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.CoreCompileInputs.cache
