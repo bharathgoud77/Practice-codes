@@ -5,3 +5,14 @@ E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.cspro
 E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.csproj.CoreCompileInputs.cache
 E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.exe
 E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.pdb
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Buffers.dll
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Memory.dll
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Numerics.Vectors.dll
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Buffers.xml
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Memory.xml
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Numerics.Vectors.xml
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\fellowship\Practice-codes\DAY_6_codes\DAY_6_codes\obj\Debug\DAY_6_codes.csproj.CopyComplete
