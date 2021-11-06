@@ -1,0 +1,7 @@
+E:\fellowship\Practice-codes\fibinocci\fibinocci\bin\Debug\fibinocci.exe.config
+E:\fellowship\Practice-codes\fibinocci\fibinocci\bin\Debug\fibinocci.exe
+E:\fellowship\Practice-codes\fibinocci\fibinocci\bin\Debug\fibinocci.pdb
+E:\fellowship\Practice-codes\fibinocci\fibinocci\obj\Debug\fibinocci.csproj.AssemblyReference.cache
+E:\fellowship\Practice-codes\fibinocci\fibinocci\obj\Debug\fibinocci.csproj.CoreCompileInputs.cache
+E:\fellowship\Practice-codes\fibinocci\fibinocci\obj\Debug\fibinocci.exe
+E:\fellowship\Practice-codes\fibinocci\fibinocci\obj\Debug\fibinocci.pdb
